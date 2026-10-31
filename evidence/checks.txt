@@ -1,0 +1,10 @@
+$ go test ./...
+?   	example.com/pr11/cmd/api	[no test files]
+?   	example.com/pr11/internal/core	[no test files]
+?   	example.com/pr11/internal/httpapi	[no test files]
+?   	example.com/pr11/internal/repo	[no test files]
+?   	example.com/pr11/internal/service	[no test files]
+
+
+$ go vet ./...
+
